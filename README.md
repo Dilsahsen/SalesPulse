@@ -41,7 +41,7 @@ sales-pulse/
 
 Event: ADÜ Teknokent DemoDay
 
-Result: Ranked 5th among all projects
+Result: Ranked 5th 
 
 This achievement highlights the project’s potential as a practical, real-world sales performance tool.
 
