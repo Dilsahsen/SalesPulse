@@ -37,24 +37,6 @@ sales-pulse/
 └─ outputs/
 └─ generated charts & analysis results
 
-🚀 Setup
-
-```bash
-pip install -r requirements.txt
-
-Run
-python sales_analysis.py
-
-The script will:
-
-Analyze sales totals
-
-Generate trend & comparison charts
-
-Save results to the outputs/ folder
-
-Produce a simple next-month sales forecast
-
 🏆 DemoDay Achievement
 
 Event: ADÜ Teknokent DemoDay
